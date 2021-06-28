@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @manjujidagi
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently working @ https://evryved.space
-- 💞️ I’m love contributing to opensource
+- 💞️ I love contributing to opensource
 - 📫 You can reach me @ manjujidagi@protonmail.com
 
 <!---
